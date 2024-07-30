@@ -1,11 +1,10 @@
-# Blossom Theme for [App/Service/etc... Name]
+# Blossom Theme for [SumatraPDF]
 
 ## Preview
-> Add Screenshots of the theme
+![](./screenshot01.png)
+![](./screenshot02.png)
 
 ## Installation
-Activating Theme in SumatraPDF
-
 1. Open File Explorer and navigate to:
     ```%LOCALAPPDATA%\SumatraPDF\```
 
